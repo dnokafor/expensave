@@ -10,7 +10,7 @@ Your sponsorship will help me dedicate more time and resources to improve the pr
 
 ---
 
-# Screenshots
+# Screenshots 
 
 ## Desktop version
 
